@@ -58,7 +58,7 @@ export const AuthPage = () => {
             <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
               <BookOpen className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-2xl font-bold">SkillForge</span>
+            <span className="text-2xl font-bold">SkillBridge</span>
           </div>
           <CardTitle>{isLogin ? 'Welcome Back' : 'Get Started'}</CardTitle>
           <CardDescription>
