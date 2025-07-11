@@ -28,7 +28,7 @@ export const Header = () => {
             <div className="h-8 w-8 rounded-lg bg-primary flex items-center justify-center">
               <BookOpen className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">SkillForge</span>
+            <span className="text-xl font-bold">SkillBridge</span>
           </Link>
           
           <nav className="hidden md:flex space-x-6">
